@@ -5,6 +5,10 @@
 *.png
 *.jpg
 *.pyc
+*.so
+*.a
+*.weights
+videos/
 old/
 mnist/
 data/
