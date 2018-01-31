@@ -1,0 +1,6 @@
+classes= 5
+train  = /media/grayson/DATA/tianjin_selected/yolo_trainval_list.txt
+valid  = /media/grayson/DATA/tianjin_selected/yolo_test_list.txt
+names = data/tianjin.names
+backup = backup
+
