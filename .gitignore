@@ -5,12 +5,9 @@
 *.png
 *.jpg
 *.pyc
-*.so
-*.a
-*.weights
-videos/
 old/
 mnist/
+data/
 caffe/
 grasp/
 images/
@@ -18,11 +15,9 @@ opencv/
 convnet/
 decaf/
 submission/
-weights/
+# cfg/
 darknet
 .fuse*
-.idea/
-cmake-build-*/
 
 # OS Generated #
 .DS_Store*
@@ -30,3 +25,8 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+weights
+backup
+libdarknet.so
+libdarknet.a
